@@ -1,0 +1,43 @@
+﻿[
+  {
+    "Name": "T-Shirt",
+    "Description": "Mens LifeStyle T-Shirt",
+    "Price": 1500,
+    "PictureURL": "Infrastrucure/imags/shirt.JPG",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Black Coat",
+    "Description": "Dalydress Mens Casula Weatherproof Coat",
+    "Price": 3000,
+    "PictureURL": "Infrastrucure/imags/shirt.JPG",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Hijab Dress",
+    "Description": "Hijab Dress for winter With belt for women ",
+    "Price": 2000,
+    "PictureURL": "Infrastrucure/imags/shirt.JPG",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Cotton Sock",
+    "Description": "Pair of soft cotton socks ",
+    "Price": 200,
+    "PictureURL": "Infrastrucure/imags/shirt.JPG",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Jeans",
+    "Description": "JEANS WEAR Men's Carrot Fit Jeans",
+    "Price": 1000,
+    "PictureURL": "Infrastrucure/imags/shirt.JPG",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4
+  }
+
+]

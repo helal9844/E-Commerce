@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "0UmR6B5Uw9NmFLQNvCcS4Fp0bNX2a/sgYlK1fBSz+HI=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
