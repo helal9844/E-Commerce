@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5KkZ9HlHBEOjggiESUWb4q6wkTAjLHjMiLROOlaKHvtW5OFxMWEOwzgkqU0cAfhJytjPqYEvFaSbIBIrhv68ug==",
+  "dgSpecHash": "J9t2uXWtJ+y3Akt5EPpBQ60QRKUZ1dU0a2fkwLh/FBU/X3TI6yQ3QU4NM+f9YPMSdkb3T3BhqbLBzDzoYvUxUg==",
   "success": true,
-  "projectFilePath": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\Infrastrucure\\Infrastrucure.csproj",
+  "projectFilePath": "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\Infrastrucure\\Infrastrucure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",

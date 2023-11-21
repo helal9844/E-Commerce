@@ -1932,11 +1932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\API\\API.csproj",
+      "projectUniqueName": "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\API\\API.csproj",
+      "projectPath": "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\API\\obj\\",
+      "outputPath": "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1953,8 +1953,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\Infrastrucure\\Infrastrucure.csproj": {
-              "projectPath": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\Infrastrucure\\Infrastrucure.csproj"
+            "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\Infrastrucure\\Infrastrucure.csproj": {
+              "projectPath": "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\Infrastrucure\\Infrastrucure.csproj"
             }
           }
         }

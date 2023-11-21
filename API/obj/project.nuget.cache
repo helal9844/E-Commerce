@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HzvsD8y45aXZ6D1Z9M/5hZSTO4XH+8IRTOlOTIzKd1XovlRpzvVv1ZEH5j8NJ9jQDVPbBxXgM9N5jBWni9K1zg==",
+  "dgSpecHash": "aIeuVLQyC9r8LMK9hPDkUm/qlP1lUUoNgF1RKZtE5zsBPthRgb8/wIlkXqiph3V9AYsCy/f5w8wvE4UsSFVcOQ==",
   "success": true,
-  "projectFilePath": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\API\\API.csproj",
+  "projectFilePath": "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1334,11 +1334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\Infrastrucure\\Infrastrucure.csproj",
+      "projectUniqueName": "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\Infrastrucure\\Infrastrucure.csproj",
       "projectName": "Infrastrucure",
-      "projectPath": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\Infrastrucure\\Infrastrucure.csproj",
+      "projectPath": "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\Infrastrucure\\Infrastrucure.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\Infrastrucure\\obj\\",
+      "outputPath": "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\Infrastrucure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1355,8 +1355,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\Core\\Core.csproj": {
-              "projectPath": "E:\\new pro-\\AspCore&Angular\\Project\\Back_End\\Core\\Core.csproj"
+            "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\Core\\Core.csproj": {
+              "projectPath": "E:\\new pro-\\Ecommerce\\Project\\E-Commerce\\Back_End\\Core\\Core.csproj"
             }
           }
         }
